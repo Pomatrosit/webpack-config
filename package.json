@@ -1,0 +1,27 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "webpack js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timbersaw4422/webpack-config.git"
+  },
+  "keywords": [
+    "webpack",
+    "javascript"
+  ],
+  "author": "Vasiliy Yurkin <timbersaw442211@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timbersaw4422/webpack-config/issues"
+  },
+  "homepage": "https://github.com/timbersaw4422/webpack-config#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
